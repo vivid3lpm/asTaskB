@@ -1,0 +1,23 @@
+{
+ "development": {
+    "username": "postgres",
+    "password": "Unit@1234",
+    "database": "task_board",
+    "host": "localhost",
+    "dialect": "postgresql"
+ },
+ "test": {
+    "username": "postgres",
+    "password": "Unit@1234",
+    "database": "task_board",
+    "host": "localhost",
+    "dialect": "postgresql"
+ },
+ "production": {
+    "username": "postgres",
+    "password": "Unit@1234",
+    "database": "task_board",
+    "host": "localhost",
+    "dialect": "postgresql"
+ }
+}
